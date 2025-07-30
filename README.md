@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Mar
 
-<!--
-**Mar16700/Mar16700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Economista con formación en ciencia de datos 
+📊 Apasionada por el análisis de datos sociales, financieros y estructurales  
+🏛️ Me interesa aplicar ciencia de datos a problemas de política pública, desigualdad y desarrollo
 
-Here are some ideas to get you started:
+🧪 Trabajo con Python, SQL, Power BI y modelos de Machine Learning para transformar datos en decisiones informadas  
+💡 Creo que el análisis crítico y el código limpio pueden convivir (y cambiar cosas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Mis habilidades
+- 📈 Modelado predictivo y análisis estadístico aplicado
+- 🔍 Automatización de procesos y scraping de datos públicos
+- 🧠 Procesamiento de lenguaje natural (NLP)
+- 📊 Visualización de datos con enfoque narrativo y social
+
+---
+
+## 📌 Proyectos destacados
+- 🏦 Random Forest para Predecir Demanda de Taxis en Condiciones de Lluvia
+- 🦠 Crisis y reproducción social: el impacto estructural de la pandemia en la vida de las mujeres trabajadoras en México
+- 🔍 Detección Automática de Críticas Negativas en Reseñas
+
+---
+
+## 💬 ¡Conectemos!
+🔗 [LinkedIn](https://www.linkedin.com/in/marlen-m%C3%A1rquez-oloarte/)  
+✉️ marlen_oloarte13@hotmail.com  
